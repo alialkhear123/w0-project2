@@ -12,3 +12,13 @@ body {
 .redDigit {
   color: red;
 }
+
+.start{
+  background-color: green;
+  color: #000;
+}
+
+.reset{
+  background-color: red;
+  color: #000;
+}
